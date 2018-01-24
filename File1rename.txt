@@ -7,3 +7,6 @@ Change for commit 3
 Bug fix
 
 Bug fix 1
+
+New Bug 1a
+
